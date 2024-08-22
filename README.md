@@ -1,2 +1,2 @@
 # javascript
-Primeira aula de Gift da turma do claudinas
+Primeira aula de Git da turma do claudinas
