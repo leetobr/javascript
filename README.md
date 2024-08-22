@@ -3,4 +3,4 @@ Primeira aula de Git da turma do claudinas
 
     #primeira aula de git
 
-- git clone <caminho do repositorio>
+- git clone 1000 <caminho do repositorio>
